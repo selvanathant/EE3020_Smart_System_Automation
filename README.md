@@ -1,1 +1,1 @@
-# ssa-clwss
+# ssa-class
